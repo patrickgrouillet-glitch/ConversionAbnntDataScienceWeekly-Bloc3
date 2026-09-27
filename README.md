@@ -1,6 +1,6 @@
 # Challenge Taux de conversion Abonnement Data Science Weekly
 
-## Certification CDSD — Bloc 3 — RNCP35288
+## Certification CDSD — Bloc 3 
 **Analyse prédictive de données structurées par l'intelligence artificielle**
 
 Patrick Grouillet · Jedha Fullstack Data Science · 1er octobre 2026
