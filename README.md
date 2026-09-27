@@ -50,7 +50,7 @@ Les data scientists de [datascienceweekly.org](https://www.datascienceweekly.org
 1. **Engagement** : améliorer la navigation du site, placer les bulletins d'inscription après 8-10 pages
 2. **Fidélisation** : mécanismes de ré-engagement pour fidéliser les anciens abonnés
 3. **Ciblage jeune** : orienter le marketing vers les 17-25 ans
-4. **Marche chinois** : rechercher les causes du taux quasi-nul du marché chinois (0.13%)
+4. **Marché chinois** : rechercher les causes du taux quasi-nul du marché chinois (0.13%)
 5. **Source de trafic** : optimiser les campagnes publicitaires
 
 ## Outils principaux
