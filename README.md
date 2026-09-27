@@ -26,7 +26,7 @@ Les data scientists de [datascienceweekly.org](https://www.datascienceweekly.org
 
 1. **EDA approfondie** : analyse de la cible, variables catégorielles, numériques, corrélations, outliers
 2. **Feature engineering** : création de 4 features ('jeunes', 'chinois', 'bcppages', 'réengagement')
-3. **Préprocessing** : `ColumnTransformer` avec `StandardScaler`, `OneHotEncoder(drop='first')`, passthrough pour les binaires
+3. **Préprocessing** : `ColumnTransformer` avec `StandardScaler`, `OneHotEncoder(drop='first')` passthrough pour les binaires
 4. **Modèles comparés** : Logistic Regression, Random Forest, Gradient Boosting, Decision Tree, AdaBoost
 5. **Optimisation** : `GridSearchCV` avec `StratifiedKFold` (3 splits) sur Gradient Boosting et Random Forest
 6. **Prédictions finales** : réentrainement du meilleur modèle sur toutes les données, prédictions sur le test set
