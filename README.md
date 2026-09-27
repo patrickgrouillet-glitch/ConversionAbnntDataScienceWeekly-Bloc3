@@ -41,9 +41,9 @@ Les data scientists de [datascienceweekly.org](https://www.datascienceweekly.org
 | Decision Tree | 0.5049 | — |
 | Logistic Regression | 0.5113 | — |
 
-**Best hyperparametres** : `learning_rate=0.1`, `max_depth=5`, `n_estimators=200`, `subsample=0.8`
+**Best hyperparametres** : 'learning_rate=0.1', 'max_depth=5', 'n_estimators=200', 'subsample=0.8'
 
-**Features les plus importantes** : `total_pages_visited` (76.2%), `réengagement` (9.1%), `chinois` (5.8%), 'age' (5.4%)
+**Features les plus importantes** : 'total_pages_visited' (76.2%), 'réengagement' (9.1%), 'chinois' (5.8%), 'age' (5.4%)
 
 ## Recommandations business
 
