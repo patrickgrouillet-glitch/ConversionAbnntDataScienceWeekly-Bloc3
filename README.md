@@ -18,7 +18,7 @@ Les data scientists de [datascienceweekly.org](https://www.datascienceweekly.org
 | `conversion_data_train.csv` | 284 580 lignes, 6 variables + cible `converted` |
 | `conversion_data_test.csv` | 31 620 lignes, 6 variables (sans cible) |
 
-**Variables** : `country`, `age`, `new_user`, `source`, `total_pages_visited`, `converted`
+**Variables** : 'country', 'age', 'new_user', 'source', 'total_pages_visited', 'converted'
 
 **Déséquilibre** : seulement 3.23% de conversions (ratio 30:1)
 
